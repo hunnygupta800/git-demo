@@ -17,3 +17,5 @@ st.subheader('Database Management')
 st.subheader('SQL')
 st.subheader('C++')
 st.subheader('Python')
+
+st.sidebar.title('Menu')
