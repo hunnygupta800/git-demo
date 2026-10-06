@@ -19,3 +19,9 @@ st.subheader('C++')
 st.subheader('Python')
 
 st.sidebar.title('Menu')
+st.sidebar.markdown("""
+- Home
+- About 
+- Help
+- Contact Us
+""")
